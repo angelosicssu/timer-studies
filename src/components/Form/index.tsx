@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "../Button";
 
-class Form extends React.Component {
+class Form extends React.Component { //CLASS COMPONENT
     render(){
         return(
             <form>
